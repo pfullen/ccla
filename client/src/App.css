@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+ width: 50%;
+ margin: 0 auto;
+  margin-top: 50px;
+  height: 100%;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 5s linear;
+  height: 80px;
+}
+
+.App-header {
+
+  height: 150px;
+  padding: 20px;
+  
+ 
+  
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.ui.secondary.pointing.menu {
+  margin-left: 200px;
+  color: red;
+}
+.ui.secondary.pointing.menu {
+
+  margin-left: 200px;
+}
+
+.ccla-menu {
+
+}

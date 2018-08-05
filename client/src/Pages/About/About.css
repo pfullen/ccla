@@ -1,0 +1,18 @@
+.about {
+    margin: 0 auto;
+    width: 75%;
+    text-align: left;
+    font-size: 20px;
+    background-color: lightblue;
+    padding: 50px;
+    
+}
+
+.about h1 {
+    text-align: center;
+    color: darkorange;
+}
+
+.whyCorrChess {
+    margin-top: 50px;
+}
