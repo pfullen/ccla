@@ -3,10 +3,21 @@ body {
 min-height: 100%;
 }
 
-.home {
-    background-image: url(https://boyslifeorg.files.wordpress.com/2017/03/chess-1.jpg?w=620&h=465);
-    height: 700px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-top: 75px;
+#home {
+
+       
+    height: auto;
+  
+    
+}
+
+
+.ui.container #honme {
+   margin: 0;
+}
+
+
+.pusher {
+    height: 0px;
+
 }

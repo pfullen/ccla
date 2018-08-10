@@ -1,27 +1,27 @@
 .App {
   text-align: center;
- width: 50%;
- margin: 0 auto;
-  margin-top: 50px;
+  margin: 0 auto;
   height: 100%;
+
 }
 
 .App-logo {
   animation: App-logo-spin infinite 5s linear;
-  height: 80px;
+  height: 50px;
+  display: inline;
+
 }
 
-.App-header {
-
-  height: 150px;
-  padding: 20px;
-  
- 
-  
-}
 
 .App-title {
   font-size: 1.5em;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
 }
 
 .App-intro {
@@ -32,16 +32,34 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+ 
 
-.ui.secondary.pointing.menu {
-  margin-left: 200px;
-  color: red;
-}
-.ui.secondary.pointing.menu {
-
-  margin-left: 200px;
-}
 
 .ccla-menu {
 
 }
+
+img.ui.image.App-logo {
+  
+  
+}
+
+#home {
+  margin-left:  15px;
+
+}
+
+.item {
+  background-color: black;
+}
+
+#main {
+  height: 100%;
+  position: relative;
+
+}
+
+div.pusher {
+
+}
+

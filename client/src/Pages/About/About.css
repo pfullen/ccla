@@ -1,11 +1,11 @@
 .about {
     margin: 0 auto;
-    width: 75%;
+    width: auto;
     text-align: left;
     font-size: 20px;
     background-color: lightblue;
     padding: 50px;
-    
+    margin-top: 25px;
 }
 
 .about h1 {

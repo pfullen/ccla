@@ -1,0 +1,39 @@
+.footer {
+	
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	color:white;
+}
+.text-center {
+	float: inherit;
+text-align: right;
+margin-top: -15px;
+
+}
+
+a {
+	color: gray;
+    text-decoration: none;
+
+	
+}
+
+.fa-3x {
+ font-size: 1em;
+ padding: 5px;
+
+  }
+
+  span {
+      margin-top: 15px;
+      color: gray;
+      padding: 5px;
+  }
+
+  .container {
+      padding: 15px;
+  }
+
+  #home {
+      padding-top: 0;
+  }

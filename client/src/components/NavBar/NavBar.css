@@ -1,0 +1,45 @@
+h1 {
+    color: white;
+}
+
+
+.ui.container {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  #title {
+     background-color: #1A1A1B;
+      text-align: center;
+      width: 100%;
+  }
+
+  #mobile-title {
+    font-size: 35px;
+    margin: 0pxx;      
+    padding-right: 5px;
+    text-align: center;
+    color: darkorange;
+    width: 100%;
+    font-family: 'Lobster', cursive;
+  }
+
+  .ui.pusher {
+    height: 210px;
+
+  }
+
+
+  #tag-line {
+   
+    margin-bottom: 15px;
+  }
+
+#pieces {
+    height: 200px;
+}
+
+div#header.ui.header{
+    margin-top: 0;
+
+}
